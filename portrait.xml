@@ -193,8 +193,8 @@ license:		creative commons CC-BY-NC-SA
       <video name="md_video">
         <origin>0 0</origin>
         <pos>0.025 0.22</pos>
-  			<maxSize>0.250 0.602</maxSize>
-        <origin>0 0</origin>
+        <maxSize>0.250 0.602</maxSize>
+        <showSnapshotNoVideo>true</showSnapshotNoVideo>
       </video>
     </view>
   </feature>
